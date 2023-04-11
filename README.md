@@ -1,5 +1,5 @@
 # quick-link
-Generates a HTML Document to use as your Brwosers Landingpage, containing a table of your links.
+Generates a HTML Document to use as your Browsers Landingpage, containing a table of your links.
 
 ## Why?
 Because I like tables! And find them more helpful then the default Bookmark Interface.  
